@@ -1,4 +1,4 @@
-export interface log {
+export interface Log {
   id: string,
   text: string,
   date: any
